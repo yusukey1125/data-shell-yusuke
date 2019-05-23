@@ -2,4 +2,6 @@ broccoli
 flour
 sugar
 milk
-
+vanilla essence
+baking powder
+a pinch of salt
